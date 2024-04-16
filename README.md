@@ -1,5 +1,7 @@
 # Chatbot
 Chatbot with LangChain, HuggingFace Embeddings, and Google T5 Model
+
+
 This project demonstrates the implementation of a chatbot using LangChain, HuggingFace embeddings, and the google/flan-t5-large model. The chatbot is capable of processing uploaded documents and answering user queries based on the content of the documents.
 
 Usage
